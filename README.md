@@ -1,6 +1,55 @@
 # m315.github.io
 welcome to my portfolio!
 
+##### Melani Martin Gonzalez
+NSF CyberCorps: Scholarship for Service Recipient | Eligible for Direct Hire | Willing to Relocate 
+
+### Education
+Bachelor of Science, Information Systems and Technology - Cybersecurity
+NSA/DHS Center for Academic Excellence in Cyber Defense
+University Honors Program || Dean's List Academic Award
+California State University
+
+### Skills
+Fluent Spanish Federal Information Security Modernization Act Python
+NIST Cybersecurity Framework OWASP Top Ten Docker Containerization
+Artificial Intelligence Microsoft Azure PostgreSQL SQL
+
+### Experience
+# Intern, National Nuclear Security Administration, Albuquerque, New Mexico June 2024- Present
+Architected and implemented a scalable PostgreSQL database to support a photo-based mobile application, developed in
+collaboration with three interns, ensuring efficient data storage and retrieval
+Deployed the database on Microsoft Azure, leveraging cloud infrastructure to ensure high availability, security, and cost-
+effective scalability
+Showcased my research through a poster presentation at DOE’s Cybersecurity and Innovation Technology Conference,
+highlighting innovative database solutions and cloud deployment strategies
+
+# Cybersecurity Research Lab Manager, California State University San Bernardino August 2023- Present
+Supervised and guided independent research initiatives, fostering a culture of innovation and critical thinking within the lab
+Cultivated an inclusive environment by actively welcoming and encouraging participation from all students
+Facilitated and conducted research in various cybersecurity related topics such as networking and post-quantum encryption
+
+# Server, Savoury’s Catering, Palm Springs Convention Center June 2021- August 2023
+Successfully set up, and served over 100 events, both on and off-site, serving as VIP server, banquet server, or cashier
+Elected to provide a tasting experience to a key client, showcasing attentiveness and communication skills
+Planned, organized, and executed events, ranging from managing rooms myself to leading teams of 2-6 others
+
+# Instructor, GenCyber Summer Camp, California State University San Bernardino June 2023
+Developed an interactive curriculum on the role of Cybersecurity Analyst, providing foundational knowledge of
+cybersecurity
+With the utilization of Raspberry Pi, walked through vulnerability assessment demonstrated by OWAP’s Zed Attack Proxy,
+and exploited a vulnerable website OWASP’s Juiceshop representing the OWASP Top Ten
+Successfully lectured two cohorts of 15 high school students each, delivering 4 hours of instruction each, while also assisting
+4 instructors in course preparation and execution by providing valuable guidance to both instructors and students
+
+### Projects
+Post-Quantum Cryptography on Constrained Networks Problem Assignment, National Security Agency - INSuRE
+Experimented NIST’s post-quantum algorithms, CRYSTALS-Kyber and CRYSTALS-Dilithium, under various constraints
+using Docker containers to analyze the induced packet loss
+Social Engineering Tool Kit, Scholarship for Service Capstone Project
+Conducted in-depth research on the ethical implications of Artificial Intelligence, presenting effects at Cybersecurity Center
+Developed Python web-scraping code for extracting data from Instagram, exploring the world of Open Source Intelligence
+
 ### Affiliations and Competitions
 Mentor, Luminaries ChickTech Mentorship Program 2024- Present
 Mentored and supported a high school senior preparing for the transition into university, aspiring to be in computer science
@@ -31,7 +80,9 @@ SkillsUSA Competition 2019- 2020
 Collaboratively developed 1 comprehensive business plan for a fictitious enterprise from scratch, achieving Silver in the state-level
 Demonstrated expertise in advertising design concepts and tools by creating 1 logo and flyer using Adobe Illustrator, securing Bronze in the
 regional-level
-Community Outreach
+
+
+### Community Outreach
 Event Coordinator, Digital Arts Technology Academy, Cathedral City High School Orchestrated a captivating CyberXperience of immersive cybersecurity activities, introducing 35 students from my alma mater to the
 wonders of cybersecurity, featuring steganography and drone demonstrations, providing an engaging and informative experience for all
 Lego Day at Chapman Heights Elementary School October 2023
@@ -45,7 +96,8 @@ Communicated said findings to Vice President and Chair of the Cybersecurity, Pri
 Associates, Norma Krayem, Congressman Takano and the staff of Congressman Pete Aguilar
 Department of Service to students with Disabilities Note-Taker at California State University San Bernardino Fall 2021 and Fall 2022
 Ensured equitable access to education as a Note-Taker for Chemistry and Microeconomics courses
-Awards and Certifications
+
+### Awards and Certifications
 CompTIA Security+
 College of the Desert's Speech Competition: 2nd Place
 Digital Arts Technology Academy's Golden Lion medallion
