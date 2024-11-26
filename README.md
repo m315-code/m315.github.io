@@ -1,7 +1,7 @@
 # m315.github.io
 welcome to my portfolio!
 
-##### Melani Martin Gonzalez
+# Melani Martin Gonzalez
 NSF CyberCorps: Scholarship for Service Recipient | Eligible for Direct Hire | Willing to Relocate 
 
 ### Education
